@@ -1,2 +1,1 @@
-# simple_shell
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+0x16. C - Simple Shell
